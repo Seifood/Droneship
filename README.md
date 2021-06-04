@@ -4,6 +4,16 @@
 ### <img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Earth.gif" width="24px">
 
 
+![Droneship github stats](https://github-readme-stats.vercel.app/api?username=Seifood&show_icons=true&hide_border=true)
+
+<br>
+
+<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
+
+# Connect with me<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Handshake.gif" height="32px">
+
 
 
 
