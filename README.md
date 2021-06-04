@@ -8,16 +8,10 @@
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning JB 24
-- 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
+  -🔭 Nothing
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
