@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Seifood&color=blueviolet)
 
- ### <img src="https://github.com/Seifood/Seifood/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Seifood/Seifood/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/Seifood/Seifood/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Seifood/Seifood/blob/master/Assets/Earth.gif" width="24px">
 
 
 
