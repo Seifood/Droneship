@@ -12,7 +12,7 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Handshake.gif" height="32px">
+
 
 
 
@@ -41,8 +41,6 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
 
 <br>
 
