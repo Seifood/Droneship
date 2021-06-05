@@ -6,7 +6,7 @@
 
 ![Droneship github stats](https://github-readme-stats.vercel.app/api?username=Seifood&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifood&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Seifood/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifood&layout=compact&text_color=daf7dc&bg_color=151513)](https://github.com/Seifood/github-readme-stats)
 <br>
 
 <img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
