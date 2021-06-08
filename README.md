@@ -4,7 +4,7 @@
 ### <img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Earth.gif" width="24px">
 
 
-![Droneship github stats](https://github-readme-stats.vercel.app/api?username=Seifood&show_icons=true&theme=radical)
+[Droneship github stats](https://github-readme-stats.vercel.app/api?username=Seifood&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifood&layout=compact&text_color=D42481&bg_color=7FDBFF)](https://github.com/Seifood/github-readme-stats)
 <br>
