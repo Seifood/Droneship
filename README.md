@@ -30,8 +30,6 @@
 
 
 
-                width="28" /> To connect with me</h2></summary>
-
 <p align = "center">
  
 
