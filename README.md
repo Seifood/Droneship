@@ -11,18 +11,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Blaster4385&theme=gotham)](https://git.io/streak-stat
 
 
-
-
-
-<p align = "center">
  
 
  <a href="https://t.me/Droneship">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-
-</p>
-
-
-<br>
-
-<p align = "center">
