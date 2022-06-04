@@ -8,9 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifood&theme=gotham&layout=compact)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Seifood&theme=gotham)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Seifood&theme=gotham)
 
 
- 
+
 
  <a href="https://t.me/Droneship">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
