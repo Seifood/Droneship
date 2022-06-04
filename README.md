@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifood&theme=gotham&layout=compact)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Blaster4385&theme=gotham)](https://git.io/streak-stat
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Seifood&theme=gotham)](https://git.io/streak-stat
 
 
  
